@@ -14,14 +14,14 @@
 - **Supervised Machine Learning**  
   Regression, classification, model evaluation
 
-- **Data Visualization & Analysis**  
-  Turning raw data into insight
+- **Text Mining & NLP**
+Extracting meaning from text using Python and ML
 
 ---
 
 ## 🛠️ Tools
 
-Python, pandas, matplotlib, seaborn, Plotly, scikit-learn, statsmodels, NumPy, Tensorflow, SQL, Jupyter Notebook, VS Code
+Python, pandas, NumPy, matplotlib, seaborn, Plotly, scikit-learn, statsmodels, NLTK, Tensorflow, SQL, Jupyter Notebook, VS Code
 
 ---
 
