@@ -14,8 +14,8 @@
 - **Supervised Machine Learning**  
   Regression, classification, model evaluation
 
-- **Text Mining & NLP**
-Extracting meaning from text using Python and ML
+- **Text Mining & NLP**  
+  Extracting meaning from text using Python and ML
 
 ---
 
