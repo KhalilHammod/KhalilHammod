@@ -6,51 +6,22 @@
 
 ---
 
-## 🛤️ My Journey
+## 🔎 Focus Areas
 
-I have always been drawn to both **politics** and **technology**. That dual passion led me to earn a degree in **Politics and Ethics from Bard College Berlin**, while always keeping an eye on the tech world.
+- **Applied Statistical Inference**  
+  Confidence intervals, p-values, hypothesis testing
 
-In 2025, I made a New Year's resolution:  
-**Learn how to use data — especially statistical reasoning and machine learning — to support better decisions.**
-So I committed myself to studying data skills to become a more informed thinker, analyst, and contributor in the policy space.
+- **Supervised Machine Learning**  
+  Regression, classification, model evaluation
 
----
-
-## 🧠 What I Focus On
-
-- 📈 **Statistical Inference**  
-Confidence intervals, hypothesis testing, p-values, and modeling — with growing interest in both **frequentist** and **Bayesian** approaches to uncertainty and inference.
-
-- 🤖 **Supervised Machine Learning**  
-  Linear/logistic regression, neural networks, tree-based models, evaluation metrics
-
-- 🧹 **Data Cleaning & Engineering**  
-  Preparing raw data for robust analysis
-
-- 📊 **Data Visualization**  
-  Turning numbers into narratives
-
-These are the areas that excite me the most and where my projects will live.
+- **Data Visualization & Analysis**  
+  Turning raw data into insight
 
 ---
 
-## 🚀 Projects I am Building
+## 🛠️ Tools
 
-I am currently working on:
-
-- 📉 Applied statistical inference projects
-- 🧠 Supervised ML models for prediction & classification
-- 📊 Data exploration notebooks focused on storytelling and insight
-
-As I continue learning, I will be sharing projects that apply **data science techniques to policy problems** and everyday decision-making.
-
----
-
-## 🛠️ Tools I Use
-
-- **Languages:** Python, SQL  
-- **Libraries:** pandas, matplotlib, seaborn, scikit-learn, statsmodels, NumPy, Tensorflow  
-- **Tools:** Jupyter Notebook, Git/GitHub, VS Code
+Python, pandas, matplotlib, seaborn, Plotly, scikit-learn, statsmodels, NumPy, Tensorflow, SQL, Jupyter Notebook, VS Code
 
 ---
 
@@ -58,7 +29,5 @@ As I continue learning, I will be sharing projects that apply **data science tec
 
 - **Email:** khalilhamood19@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/khalil-hammod
-
-
 
 Thanks for visiting!
