@@ -19,7 +19,7 @@ So I committed myself to studying data skills to become a more informed thinker,
 ## 🧠 What I Focus On
 
 - 📈 **Statistical Inference**  
-Confidence intervals, hypothesis testing, and p-values — with growing interest in both **frequentist** and **Bayesian** approaches to uncertainty and inference.
+Confidence intervals, hypothesis testing, p-values, and modeling — with growing interest in both **frequentist** and **Bayesian** approaches to uncertainty and inference.
 
 - 🤖 **Supervised Machine Learning**  
   Linear/logistic regression, neural networks, tree-based models, evaluation metrics
