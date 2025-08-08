@@ -19,7 +19,7 @@
 
 ## 🛠️ Tools
 
-Python, pandas, NumPy, matplotlib, seaborn, Plotly, scikit-learn, statsmodels, NLTK, Tensorflow, SQL
+Python, pandas, NumPy, matplotlib, seaborn, Plotly, scikit-learn, statsmodels, NLTK, Tensorflow, SQL, R
 
 
 ## 📫 Get in Touch
