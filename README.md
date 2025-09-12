@@ -1,13 +1,7 @@
 # 👋 Hi, I am Khalil Hammod
-
-💡 Data-Informed Policy Analyst
-
-🎓 MA in Policy and Administration | BA in Politics & Ethics
-
-📊 Python, Statistics, SQL & Machine Learning
-
 🎯 On a mission to bridge **policy** and **data** for smarter decision-making
-
+🎓 MA in Policy & Administration | BA in Politics & Ethics
+📊 Python, Statistics, SQL & Machine Learning
 
 ## 🔎 Focus Areas
 
