@@ -1,6 +1,8 @@
 # 👋 Hi, I am Khalil Hammod
 🎯 On a mission to bridge **policy** and **data** for smarter decision-making
+
 🎓 MA in Policy & Administration | BA in Politics & Ethics
+
 📊 Python, Statistics, SQL & Machine Learning
 
 ## 🔎 Focus Areas
