@@ -3,7 +3,7 @@
 
 🎓 MA in Policy & Administration | BA in Politics & Ethics
 
-📊 Python, Statistics, SQL & Machine Learning
+📊 Python, R, Statistics, SQL & Machine Learning
 
 ## 🔎 Focus Areas
 
